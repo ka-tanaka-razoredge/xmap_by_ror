@@ -1,0 +1,19 @@
+current directory: /var/www/xmap_by_ror/vendor/cache/ruby/2.5.0/gems/byebug-10.0.2/ext/byebug
+/usr/bin/ruby2.5 -r ./siteconf20220613-32623-a7h9f4.rb extconf.rb
+creating Makefile
+
+current directory: /var/www/xmap_by_ror/vendor/cache/ruby/2.5.0/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /var/www/xmap_by_ror/vendor/cache/ruby/2.5.0/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.so
+
+current directory: /var/www/xmap_by_ror/vendor/cache/ruby/2.5.0/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.so ./.gem.20220613-32623-190apuz/byebug
